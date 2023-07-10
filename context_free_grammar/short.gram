@@ -1,0 +1,6 @@
+short synergize
+
+synergize COMPUTER maybe_please SYNERGIZE
+
+maybe_please
+maybe_please PLEASE

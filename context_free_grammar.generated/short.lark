@@ -1,0 +1,7 @@
+short: synergize
+synergize: COMPUTER maybe_please SYNERGIZE
+maybe_please: 
+    | PLEASE
+COMPUTER: "COMPUTER "
+SYNERGIZE: "SYNERGIZE "
+PLEASE: "PLEASE "

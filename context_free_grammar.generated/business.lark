@@ -1,0 +1,34 @@
+business: computer_consider_business_idea
+computer_consider_business_idea: COMPUTER maybe_please maybe_verb business_idea
+maybe_please: 
+    | PLEASE
+maybe_verb: 
+    | CONSIDER
+    | IMAGINE
+    | DREAM
+    | DREAM OF
+    | CONCEPTUALIZE
+business_idea: PIVOTING
+    | VERTICALS
+    | MANAGEMENT
+    | TIME MANAGEMENT
+    | OUTFLOW
+    | YEAR OVER YEAR
+    | STOCKS
+    | POSITIONALITY
+COMPUTER: "COMPUTER "
+PLEASE: "PLEASE "
+CONSIDER: "CONSIDER "
+IMAGINE: "IMAGINE "
+DREAM: "DREAM "
+OF: "OF "
+CONCEPTUALIZE: "CONCEPTUALIZE "
+PIVOTING: "PIVOTING "
+VERTICALS: "VERTICALS "
+MANAGEMENT: "MANAGEMENT "
+TIME: "TIME "
+OUTFLOW: "OUTFLOW "
+YEAR: "YEAR "
+OVER: "OVER "
+STOCKS: "STOCKS "
+POSITIONALITY: "POSITIONALITY "

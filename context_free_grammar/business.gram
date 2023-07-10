@@ -1,0 +1,22 @@
+business	computer_consider_business_idea
+
+computer_consider_business_idea COMPUTER maybe_please maybe_verb business_idea
+
+maybe_please
+maybe_please PLEASE
+
+maybe_verb
+maybe_verb CONSIDER
+maybe_verb IMAGINE
+maybe_verb DREAM
+maybe_verb DREAM OF
+maybe_verb CONCEPTUALIZE
+
+business_idea	PIVOTING
+business_idea	VERTICALS
+business_idea	MANAGEMENT
+business_idea	TIME MANAGEMENT
+business_idea	OUTFLOW
+business_idea	YEAR OVER YEAR
+business_idea	STOCKS
+business_idea	POSITIONALITY

@@ -1,0 +1,4 @@
+#!env/bin/python
+#import cfrais #cfrais.run_chat("context_free_grammar.generated")
+import game
+game.run_chat("context_free_grammar.generated")

@@ -1,0 +1,4 @@
+%import .business.business
+%import .short.short
+
+start: business|short
